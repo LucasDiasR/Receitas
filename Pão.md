@@ -17,9 +17,8 @@
 ```mermaid
 
 flowchart TB
-a[Churros]
 
-a-->b[coisas]
+a-->b
 
 
 ```  
