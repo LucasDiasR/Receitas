@@ -17,8 +17,7 @@
 ```mermaid
 
 flowchart TB
-a[[Churros]]
-click a "[[Churros]]"
+a[Churros]
 
 a-->b[coisas]
 
