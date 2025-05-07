@@ -10,16 +10,7 @@
 - 20g de açúcar 
 - 10g de sal
 
-[[Churros]]
-
-### Preparo:
-
-```mermaid
-
-flowchart TB
-
-a-->b
 
 
-```  
+
   #Pães #panificação
